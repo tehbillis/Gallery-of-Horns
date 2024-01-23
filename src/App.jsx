@@ -1,5 +1,15 @@
+import Header from './components/Header';
+import Gallery from './components/Gallery';
+import Footer from './components/Footer';
+
 function App() {
-  return <h1>I live!</h1>
+  return (
+    <>
+    <Header />
+    <Gallery />
+    <Footer />
+    </>
+  );
 }
 
 export default App;
