@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <p>William Green &copy;</p>
+      <p>William Green &copy; 2024</p>
     </footer>
   );
 }
