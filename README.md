@@ -9,7 +9,26 @@ Currently, two official plugins are available:
 
 ## Time Estimates
 
+### Feature 1: Display Images
 
+- **Est Time Needed:** 30 min
+- **Start:** 7:53p
+- **End:** 8:19p
+- **Actual Time Needed:** 26 min
+
+### Feature 2: Allow users to favorite individual beasts
+
+- **Est Time Needed:** 30 min
+- **Start:** 3:25p
+- **End:** 3:40p
+- **Actual Time Needed:** 15 min
+
+### Feature 3: Botstrap
+
+- **Est Time Needed:** 1 hour
+- **Start:** 8:17p
+- **End:** 9:44p
+- **Actual Time Needed:** 1 hour 27 min
 
 ## Netlify Status
 
