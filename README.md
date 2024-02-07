@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 ## Time Estimates
 
+## Class 2
+
 ### Feature 1: Display Images
 
 - **Est Time Needed:** 30 min
@@ -28,7 +30,16 @@ Currently, two official plugins are available:
 - **Est Time Needed:** 1 hour
 - **Start:** 8:17p
 - **End:** 9:44p
-- **Actual Time Needed:** 1 hour 27 min
+- **Actual Time Needed:** 1 hr 27 min
+
+## Class 3
+
+### Feature 1: Display a modal
+
+- **Est Time Needed:** 45 min
+- **Start:** 10:00p
+- **End:**11:30p
+- **Actual Time Needed:** 1 hr 30 min
 
 ## Netlify Status
 
