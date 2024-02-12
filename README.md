@@ -38,8 +38,17 @@ Currently, two official plugins are available:
 
 - **Est Time Needed:** 45 min
 - **Start:** 10:00p
-- **End:**11:30p
+- **End:** 11:30p
 - **Actual Time Needed:** 1 hr 30 min
+
+## Class 4
+
+### Feature 1: Filter by number of horns
+
+- **Est Time Needed:** 1 hr
+- **Start:** 1:24p
+- **End:** 3:15
+- **Actual Time Needed:** 1 hr 51 min
 
 ## Netlify Status
 
